@@ -2,9 +2,14 @@
   "name": "canil-nodejs",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadrinigth/canil-nodeJs"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon -e ts,json,mustache src/serve.ts"
   },
   "author": "hadriney",
   "license": "ISC",

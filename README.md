@@ -1,6 +1,6 @@
 # canil-nodeJs
 
-projeto feito em curso para aprendizagen
+projeto feito em curso para aprendizagem
 
 ### pré-requisitos globais:
 'nom i -g nodemon typescript ts-node'

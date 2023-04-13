@@ -1,7 +1,0 @@
-Sempre comece importando todas as bibliotecas que irá utilizar. Em seguida, crie o servidor e depois suas rotas. É importante separar o que será visto pelos usuários e o que será visto pelos desenvolvedores, usando o padrão MVC (Model, View, Controller). Crie arquivos para separar e organizar tudo, utilizando o padrão MVC. Crie arquivos específicos para rotas (somente rotas) ou somente funções de controller, por exemplo.
-
-
-Utilize nomes descritivos para suas variáveis e funções.
-Comente seu código para torná-lo mais fácil de entender e manter.
-Evite repetição de código, utilize funções e classes para reutilizar seu código.
-Use uma convenção consistente de estilo de código para torná-lo mais legível.
